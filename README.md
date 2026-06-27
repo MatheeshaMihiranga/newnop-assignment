@@ -11,6 +11,21 @@
 
 ---
 
+## 🌐 Live Demo
+
+| Service | URL |
+|---|---|
+| **🖥️ Frontend (Vercel)** | [https://newnop-assignment-lemon.vercel.app](https://newnop-assignment-lemon.vercel.app) |
+| **⚙️ Backend API (Railway)** | [https://newnop-assignment-production.up.railway.app/api/health](https://newnop-assignment-production.up.railway.app/api/health) |
+
+### Demo Credentials
+| Role | Email | Password |
+|---|---|---|
+| **Admin** | admin@company.com | admin123 |
+| **Employee** | john@company.com | password123 |
+
+---
+
 ## 📸 Preview
 
 | Login Page | Admin Dashboard | Task Detail |
@@ -222,13 +237,6 @@ npm run dev        # Development server
 Frontend runs at: `http://localhost:5173`
 
 ---
-
-## 🔐 Demo Accounts
-
-| Role | Email | Password |
-|---|---|---|
-| **Admin** | admin@company.com | admin123 |
-| **Employee** | john@company.com | password123 |
 
 ---
 
